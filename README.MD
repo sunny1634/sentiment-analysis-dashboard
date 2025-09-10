@@ -21,14 +21,13 @@ A comprehensive **real-time sentiment analysis dashboard** that monitors and vis
 - **Export Functionality** - Data export for further analysis
 - **Customizable Models** - Switch between different AI models in real-time
 
-## 🚀 Live Demo
 
-**[View Live Dashboard](https://sunny1634.github.io/sentiment-analysis-dashboard)**
+
 
 ## 📊 Screenshots
 
 ### Main Dashboard
-(Screenshot.png)
+![alt text](Screenshot.png)
 ## 🛠️ Technology Stack
 
 ### Frontend Technologies
