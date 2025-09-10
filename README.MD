@@ -23,19 +23,12 @@ A comprehensive **real-time sentiment analysis dashboard** that monitors and vis
 
 ## 🚀 Live Demo
 
-**[View Live Dashboard](https://your-username.github.io/sentiment-analysis-dashboard)**
+**[View Live Dashboard](https://sunny1634.github.io/sentiment-analysis-dashboard)**
 
 ## 📊 Screenshots
 
 ### Main Dashboard
-![Main Dashboard](screenshots/dashboard-main.png)
-
-### Real-Time Analytics
-![Analytics View](screenshots/analytics-view.png)
-
-### Mobile View
-![Mobile Interface](screenshots/mobile-view.png)
-
+(Screenshot.png)
 ## 🛠️ Technology Stack
 
 ### Frontend Technologies
@@ -68,7 +61,7 @@ A comprehensive **real-time sentiment analysis dashboard** that monitors and vis
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/sentiment-analysis-dashboard.git
+   git clone https://github.com/sunny1634/sentiment-analysis-dashboard.git
    cd sentiment-analysis-dashboard
    ```
 
@@ -194,7 +187,7 @@ We welcome contributions! Here's how to get started:
 ### Development Setup
 ```bash
 # Fork the repository
-git clone https://github.com/your-username/sentiment-analysis-dashboard.git
+git clone https://github.com/sunny1634/sentiment-analysis-dashboard.git
 
 # Create feature branch
 git checkout -b feature/amazing-new-feature
@@ -266,11 +259,11 @@ git push origin feature/amazing-new-feature
 
 ### Getting Help
 - 📧 **Email**: sunnychaudhary1029@gmai;.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/your-username/sentiment-analysis-dashboard/issues)
+- 🐛 **Issues**: (https://github.com//sentiment-analysis-dashboard/issues)
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENCE.txt) file for details.
 
 ### MIT License Summary
 - ✅ Commercial use allowed
@@ -280,10 +273,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - ❗ License and copyright notice required
 
 ## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
+- GitHub: (https://github.com/sunny1634)
+- LinkedIn:(https://www.linkedin.com/in/sunny-chaudhary-61811b306/)
 - Email: sunnychaudhary1029@gmail.com
 
 ## 🙏 Acknowledgments
